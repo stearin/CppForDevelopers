@@ -6,14 +6,14 @@
 
 | Fil | Delmoment | Prova eller förvänta |
 |---|---|---|
-| [01_types.cpp](01_types.cpp) | Bild 2: int, double, bool, char, string och sizeof | count 3, temperatur 21.5, alarm false; storlekar beror på plattform |
-| [02_initialization.cpp](02_initialization.cpp) | Bild 3: {}, auto, const, constexpr och narrowing | count 5, saved 0, limit 90, maximum 100 |
-| [03_division.cpp](03_division.cpp) | Bild 4: heltalsdivision och static_cast | 2, 2, 2.5 |
-| [04_console_io.cpp](04_console_io.cpp) | Bild 5: cout, cerr, cin >>, getline, radslut och EOF | Mata 25 och sedan Ada Lovelace på nästa rad |
-| [05_conditions.cpp](05_conditions.cpp) | Bild 6: if/else if/else, &&/\|\|/!, villkorsoperator; även switch | Alarm, Accepted, Start |
-| [06_loops.cpp](06_loops.cpp) | Bild 7: for, while, do-while, range-for, break och continue | 0 1 2 / 3 2 1 / 1 2 / 10 20 30 / 0 2 3 |
-| [07_line_parsing.cpp](07_line_parsing.cpp) | Bild 8: radtolkning, strömtillstånd, extra text, q och EOF | 12 godkänns; 12abc, två tal och tom rad avvisas |
-| [08_exceptions.cpp](08_exceptions.cpp) | Bild 9: throw, typad catch, const referens och what | 80/20 godkänns; 101 fångas och nästa värde behandlas |
+| [01_types.cpp](01_types.cpp) | Bild 3: int, double, bool, char, string och sizeof | count 3, temperatur 21.5, alarm false; storlekar beror på plattform |
+| [02_initialization.cpp](02_initialization.cpp) | Bild 4: {}, auto, const, constexpr och narrowing | count 5, saved 0, limit 90, maximum 100 |
+| [03_division.cpp](03_division.cpp) | Bild 5: heltalsdivision och static_cast | 2, 2, 2.5 |
+| [04_console_io.cpp](04_console_io.cpp) | Bild 6: cout, cerr, cin >>, getline, radslut och EOF | Mata 25 och sedan Ada Lovelace på nästa rad |
+| [05_conditions.cpp](05_conditions.cpp) | Bild 7: if/else if/else, &&/\|\|/!, villkorsoperator; även switch | Alarm, Accepted, Start |
+| [06_loops.cpp](06_loops.cpp) | Bild 8: for, while, do-while, range-for, break och continue | 0 1 2 / 3 2 1 / 1 2 / 10 20 30 / 0 2 3 |
+| [07_line_parsing.cpp](07_line_parsing.cpp) | Bild 9: radtolkning, strömtillstånd, extra text, q och EOF | 12 godkänns; 12abc, två tal och tom rad avvisas |
+| [08_exceptions.cpp](08_exceptions.cpp) | Bild 10: throw, typad catch, const referens och what | 80/20 godkänns; 101 fångas och nästa värde behandlas |
 | [main.cpp](main.cpp) | Avslutning: sammanhängande mätvärdesprogram | 0/79 Normal; 80/100 Alarm; övriga intervallvärden avvisas |
 | [extra_statistics.cpp](extra_statistics.cpp) | Lösningsförslag till statistikfördjupningen | Giltiga värden räknas; medelvärde eller No measurements |
 
